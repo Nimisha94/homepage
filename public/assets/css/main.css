@@ -156,7 +156,8 @@ a:after {
 	/*background: url(../img/black.jpeg) no-repeat center top;*/
 	background: whitesmoke;
 	margin-top: 60px;
-	padding-top:140px;
+	padding-top:50px;
+	padding-bottom: 50px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
@@ -241,7 +242,7 @@ a:after {
 
 #footwrap i {
 	padding-right: 8px;
-	color: #1abc9c;
+	color: #63b3bc;
 }
 
 /* Copyright Wrap */
@@ -288,4 +289,9 @@ a:after {
 
 sm {
 	font-size: 12px;
+}
+
+.logo {
+	text-align: center;
+	margin-top: 25px;
 }
